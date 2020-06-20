@@ -1,5 +1,5 @@
-# Deep-Learning
-Dataset's  implementation on Deep Learning Models
+# Deep-Learning from scratch 
+Deep Learning Models from scratch implementation on Datasets
 
 Deep learning is a machine learning technique that teaches computers to do what comes naturally to humans: learn by example.
 In deep learning, a computer model learns to perform classification tasks directly from images, text, or sound. 
